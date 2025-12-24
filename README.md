@@ -2,8 +2,6 @@
 
 [![Version](https://img.shields.io/badge/version-1.5-blue)](https://github.com/GoldenLys/WizardUI) [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/GoldenLys/WizardUI/blob/main/LICENSE) [![Website](https://img.shields.io/badge/website-nebulys.eu-purple)](https://nebulys.eu/)
 
-![WizardUI Preview](https://goldenlys.github.io/WizardUI/images/home.png)
-
 **WizardUI** is a modular, fully customizable Discord theme made with 💖 by NEBULYS. This edit removes the watermark and allows you to enjoy the theme cleanly.
 
 ---
